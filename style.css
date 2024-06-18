@@ -1,0 +1,207 @@
+body {
+  font-family: "Manrope", sans-serif;
+}
+
+.newEra {
+  font-weight: 700;
+  font-size: 140px;
+  line-height: 100%;
+  letter-spacing: -0.03em;
+  color: #fff;
+  text-align: center;
+}
+
+.boxEra {
+  width: 100%;
+  height: 700px;
+  background-color: #262525;
+  margin-bottom: 400px;
+}
+
+.apl2 {
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 125%;
+  text-transform: uppercase;
+  text-align: center;
+  color: #fff;
+  padding-top: 100px;
+  margin-bottom: 80px;
+}
+
+h3 {
+  font-weight: 500;
+  font-size: 36px;
+  line-height: 157%;
+  text-align: center;
+  color: #f5f5f5;
+  margin-bottom: 20px;
+}
+
+.iPHONE13PROh {
+  font-weight: 700;
+  font-size: 64px;
+  text-transform: uppercase;
+  text-align: center;
+  color: #262525;
+}
+
+.apple1 {
+  display: block;
+  margin: 0 auto;
+  margin-bottom: 40px;
+}
+
+.p1 {
+  font-weight: 400;
+  font-size: 20px;
+  letter-spacing: -0.03em;
+  color: #fff;
+  text-align: center;
+}
+
+.p2 {
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 125%;
+  text-align: center;
+  color: #7a7a7a;
+}
+
+.iPHONE13PROp {
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 157%;
+  text-align: center;
+  color: #262525;
+}
+
+.info {
+  margin-bottom: 200px;
+}
+
+.apple2 {
+  margin: 0 auto;
+  width: 1261px;
+  height: 624px;
+  background-image: url(../iPhone_13_Pro_Black.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  color: white;
+  text-align: center;
+  padding-left: 10px;
+  margin-bottom: 110px;
+}
+
+.boxIphone {
+  width: 100%;
+  height: 625px;
+  background-color: #262525;
+  margin-bottom: 180px;
+}
+
+.varApl {
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 79%;
+  text-align: center;
+  color: #292929;
+  margin-bottom: 57px;
+}
+
+.item {
+  display: inline-block;
+  padding: 24px;
+}
+
+.iphone {
+  display: flex;
+  justify-content: center;
+}
+
+.boxIphone2 {
+  width: 100%;
+  height: 725px;
+  background-color: #262525;
+}
+
+.fullInfoIphone {
+  margin-bottom: 55px;
+}
+
+.titleIphone {
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 79%;
+  text-align: center;
+  color: #fff;
+  padding-top: 80px;
+  padding-bottom: 25px;
+}
+
+.infoIphone {
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 125%;
+  text-align: center;
+  color: #f5f5f5;
+}
+
+.video {
+  border-radius: 32px;
+  width: 993px;
+  height: 431px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+.item__text-wrapper {
+  padding: 24px;
+  background-color: #1b1b1b;
+  color: #fff;
+  border-radius: 0px 0px 32px 32px;
+}
+
+.item_img {
+  display: block;
+  width: 100%;
+  height: 418px;
+}
+
+.item__title {
+  font-weight: 700;
+  font-size: 28px;
+  text-transform: capitalize;
+  color: #fff;
+  margin-bottom: 5px;
+}
+
+.item__color {
+  font-weight: 400;
+  font-size: 16px;
+  text-transform: capitalize;
+  color: #fff;
+  margin-bottom: 20px;
+}
+
+.item__price {
+  font-weight: 700;
+  font-size: 24px;
+  text-transform: capitalize;
+  color: #f1f8ff;
+  margin-bottom: 16px;
+}
+
+.item__cart-btn {
+  border-radius: 30px;
+  padding: 16px 32px;
+  width: 336px;
+  height: 66px;
+  background: #fff;
+  font-weight: 600;
+  font-size: 20px;
+  text-align: center;
+  color: #000;
+  font-family: "Manrope", sans-serif;
+}
